@@ -1,0 +1,1 @@
+# WebFileChecker-Magento-1.x

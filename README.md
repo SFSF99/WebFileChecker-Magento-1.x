@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Magento-1.x / tool / checks detects modified / hacked files / configuration
 
-(see the special email address below for some questions)
+(see the special email address below for some questions, this extension was for some years to download on Magento Connect)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 

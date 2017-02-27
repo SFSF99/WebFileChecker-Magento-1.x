@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Magento-1.x / tool / checks detects modified / hacked files / configuration
 
-(see <a href="https://ooawebstore.freeforums.org/">Magento Forum</a>)
+(see the special email address below for some questions)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
@@ -41,9 +41,8 @@ So what do you need to do for this extension:
 
 Extension support:
 
-No support (too busy), but a few questions will be answered in the Magento forum (see link above).
+No support (too busy), but a few questions will be answered on this <a href="mailto:webfilechecker@ooawebstore.eu">special email address</a> (but only domain addresses, no hotmail, gmail etc.)..
 
-Questions will be NEVER answered per email!
 
 Extension history:
 

@@ -1,4 +1,4 @@
-# WebFileChecker-Magento-1.x
+# WebFileChecker-Magento-1.x ("Web File Checker")
 
 WebFileChecker extension / module for Magento-1.x / tool / checks detects modified / hacked files / configuration
 
